@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'D:/HECHEC/Sites/StoNino/app/config/routing_dev.yml'

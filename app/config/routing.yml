@@ -1,0 +1,4 @@
+stonino_main:
+    resource: "@StoninoMainBundle/Resources/config/routing.yml"
+    prefix:   /
+

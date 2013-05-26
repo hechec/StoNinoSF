@@ -1,0 +1,2 @@
+[2013-05-11 07:06:47] request.ERROR: Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /helldfg"" at D:\HECHEC\Sites\StoNino\app\cache\prod\classes.php line 3597 [] []
+[2013-05-11 07:08:54] request.ERROR: Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET /"" at D:\HECHEC\Sites\StoNino\app\cache\prod\classes.php line 3597 [] []
